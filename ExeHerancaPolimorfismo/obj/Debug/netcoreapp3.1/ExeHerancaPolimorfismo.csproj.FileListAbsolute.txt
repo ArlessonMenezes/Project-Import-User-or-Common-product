@@ -1,0 +1,13 @@
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ExeHerancaPolimorfismo\ExeHerancaPolimorfismo\bin\Debug\netcoreapp3.1\ExeHerancaPolimorfismo.exe
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ExeHerancaPolimorfismo\ExeHerancaPolimorfismo\bin\Debug\netcoreapp3.1\ExeHerancaPolimorfismo.deps.json
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ExeHerancaPolimorfismo\ExeHerancaPolimorfismo\bin\Debug\netcoreapp3.1\ExeHerancaPolimorfismo.runtimeconfig.json
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ExeHerancaPolimorfismo\ExeHerancaPolimorfismo\bin\Debug\netcoreapp3.1\ExeHerancaPolimorfismo.runtimeconfig.dev.json
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ExeHerancaPolimorfismo\ExeHerancaPolimorfismo\bin\Debug\netcoreapp3.1\ExeHerancaPolimorfismo.dll
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ExeHerancaPolimorfismo\ExeHerancaPolimorfismo\bin\Debug\netcoreapp3.1\ExeHerancaPolimorfismo.pdb
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ExeHerancaPolimorfismo\ExeHerancaPolimorfismo\obj\Debug\netcoreapp3.1\ExeHerancaPolimorfismo.csprojAssemblyReference.cache
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ExeHerancaPolimorfismo\ExeHerancaPolimorfismo\obj\Debug\netcoreapp3.1\ExeHerancaPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ExeHerancaPolimorfismo\ExeHerancaPolimorfismo\obj\Debug\netcoreapp3.1\ExeHerancaPolimorfismo.AssemblyInfo.cs
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ExeHerancaPolimorfismo\ExeHerancaPolimorfismo\obj\Debug\netcoreapp3.1\ExeHerancaPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ExeHerancaPolimorfismo\ExeHerancaPolimorfismo\obj\Debug\netcoreapp3.1\ExeHerancaPolimorfismo.dll
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ExeHerancaPolimorfismo\ExeHerancaPolimorfismo\obj\Debug\netcoreapp3.1\ExeHerancaPolimorfismo.pdb
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ExeHerancaPolimorfismo\ExeHerancaPolimorfismo\obj\Debug\netcoreapp3.1\ExeHerancaPolimorfismo.genruntimeconfig.cache
